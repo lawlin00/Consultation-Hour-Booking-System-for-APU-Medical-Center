@@ -1,0 +1,11 @@
+11,123455689,jackson,cheme
+12,192223333,Cheong G,Sore throat
+13,123542222,Gena,Coughing
+14,123542424,Jean,Coughing
+15,123999223,Colbert,COVID-19
+16,123991244,Amber,Headache
+17,123991290,Miranda,Sore legs
+18,1239922442222,Mirandad,Sore legs
+19,5922244449,Mirandad,Sore legs
+20,123540916,Mike,Sore chest
+21,60123540916,Mike,Sore chest
