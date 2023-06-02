@@ -1,5 +1,5 @@
 # Consultation-Hour-Booking-System-for-APU-Medical-Center
-***The project is in master branch***
+***The project code is in master branch***
 
 This project I did with my friends during my degree studies. I have applied object oriented programming practice in this project. 
 In this project we also implement MVC framework.  
